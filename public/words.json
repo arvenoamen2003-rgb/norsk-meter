@@ -1,0 +1,92 @@
+ [
+    {
+      "word": "Hus",
+      "type": "Существительное",
+      "level": "A1",
+      "translationRu": "Дом",
+      "translationEn": "House",
+      "example": "Jeg bor i et stort hus.",
+      "topic": "Дом"
+    },
+    {
+      "word": "Vann",
+      "type": "Существительное",
+      "level": "A1",
+      "translationRu": "Вода",
+      "translationEn": "Water",
+      "example": "Jeg drikker vann.",
+      "topic": "Еда"
+    },
+    {
+      "word": "Mat",
+      "type": "Существительное",
+      "level": "A1",
+      "translationRu": "Еда",
+      "translationEn": "Food",
+      "example": "Maten er god.",
+      "topic": "Еда"
+    },
+    {
+      "word": "God",
+      "type": "Прилагательное",
+      "level": "A1",
+      "translationRu": "Хороший",
+      "translationEn": "Good",
+      "example": "Det er god mat.",
+      "topic": "Прилагательные"
+    },
+    {
+      "word": "Stor",
+      "type": "Прилагательное",
+      "level": "A1",
+      "translationRu": "Большой",
+      "translationEn": "Big",
+      "example": "Et stort hus.",
+      "topic": "Прилагательные"
+    },
+    {
+      "word": "Liten",
+      "type": "Прилагательное",
+      "level": "A1",
+      "translationRu": "Маленький",
+      "translationEn": "Small",
+      "example": "Et lite barn.",
+      "topic": "Прилагательные"
+    },
+    {
+      "word": "Å være",
+      "type": "Глагол",
+      "level": "A1",
+      "translationRu": "Быть",
+      "translationEn": "To be",
+      "example": "Jeg er student.",
+      "topic": "Глаголы"
+    },
+    {
+      "word": "Å ha",
+      "type": "Глагол",
+      "level": "A1",
+      "translationRu": "Иметь",
+      "translationEn": "To have",
+      "example": "Jeg har en katt.",
+      "topic": "Глаголы"
+    },
+    {
+      "word": "Å gjøre",
+      "type": "Глагол",
+      "level": "A1",
+      "translationRu": "Делать",
+      "translationEn": "To do",
+      "example": "Hva gjør du?",
+      "topic": "Глаголы"
+    },
+    {
+      "word": "Å spise",
+      "type": "Глагол",
+      "level": "A1",
+      "translationRu": "Есть",
+      "translationEn": "To eat",
+      "example": "Jeg spiser frokost.",
+      "topic": "Глаголы"
+    }
+  ]
