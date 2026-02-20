@@ -1,0 +1,18 @@
+ @tailwind base;
+  @tailwind components;
+  @tailwind utilities;
+
+  .gradient-bg {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  }
+• Нужно создать файл стилей! Создайте на GitHub:
+
+  📄 Файл: styles/globals.css
+
+  @tailwind base;
+  @tailwind components;
+  @tailwind utilities;
+
+  .gradient-bg {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  }
